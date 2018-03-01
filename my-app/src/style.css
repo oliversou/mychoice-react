@@ -1,0 +1,30 @@
+.topmenu a {
+  color: black;
+  text-decoration: none;
+}
+
+.ui.container {
+  margin: 18px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.ui.container .fitted.item.image img {
+  width: 172px;
+}
+
+.hero-container {
+  background-image: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+  color: white;
+}
+
+.hero {
+  height: 500px;
+  width: 100%;
+}
+
+.footer-background {
+  background-color: #004030;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
