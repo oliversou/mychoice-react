@@ -1,6 +1,5 @@
 import React from "react";
 import { Container, Menu, Dropdown, Button, Icon } from "semantic-ui-react";
-
 {/*
 logo: https://cdn.shopify.com/s/files/1/0745/1299/t/9/assets/logo.png?10974258040355345946
 */}
